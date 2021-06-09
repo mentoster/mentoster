@@ -31,8 +31,8 @@
 ---
 
 <details>
-<div align="center">
 <summary>I have participated in the following hackathons...</summary>
+<div align="center">
 <p float="left">
   <img src="assets/images/junction_Dmitriy_Makarov Asia-1.png" width="200" />
   <img src="assets/images/junction_Dmitriy_Makarov-1.png" width="200" />
