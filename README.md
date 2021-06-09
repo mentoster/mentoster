@@ -9,13 +9,13 @@
 <div align="center">
 
 
-  
+
 </div>
 
-📫 How to reach me: 
+📫 How to reach me:
 
 - telegram : **@mentoster**
- 
+
 - vk : **[@dimamakarov12345](https://vk.com/dimamakarov12345)**
 
 ---
@@ -31,7 +31,26 @@
 ---
 
 <details>
+<div align="center">
 <summary>I have participated in the following hackathons...</summary>
-Hackatons
-</details>
+<p float="left">
+  <img src="assets/images/junction_Dmitriy_Makarov Asia-1.png" width="200" />
+  <img src="assets/images/junction_Dmitriy_Makarov-1.png" width="200" />
+  <img src="assets/images/junction_skysea_game-1.png" width="200" />
 
+</p>
+<p float="left">
+  <img src="assets/images/diploma-1.png" width="200" />
+  <img src="assets/images/Цивровой прорыв финал-1.png" width="200" />
+  <img src="assets/images/прорыв-1.png" width="200" />
+</p>
+<p float="left">
+  <img src="assets/images/теле2_game-1.png" width="200" />
+</p>
+</div>
+</details>
+<details>
+<summary>Stats...</summary>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</details>
