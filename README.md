@@ -28,4 +28,10 @@
 
 </div>
 
+---
+
+<details>
+<summary>I have participated in the following hackathons...</summary>
+Hackatons
+</details>
 
