@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Dmitriy Makarov</h1>
-<h3 align="center">A flutter and game developer from Russia</h3>
+<h3 align="center">flutter and unity proffesional developer from Russia</h3>
 <div align="center">
 
 
