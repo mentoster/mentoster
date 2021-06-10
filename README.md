@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Dmitriy Makarov</h1>
 <h3 align="center">flutter and unity proffesional developer from Russia</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/LOVED%20IDE%20-VSCode%20-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAVORITE%20IDE%20-VSCode%20-gray.svg?colorA=1560BD&colorB=1E90FF&style=for-the-badge"/>
 
 
 </div>
