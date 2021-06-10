@@ -51,9 +51,7 @@
 </details>
 <details>
 <summary>Stats...</summary>
-<!--START_SECTION:waka-->
-```text
-Markdown   15 mins         █████████████████████████   100.00 % 
-```
-<!--END_SECTION:waka-->
+  
+[![mentoster's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mentoster)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
