@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Dmitriy Makarov</h1>
 <h3 align="center">flutter and unity proffesional developer from Russia</h3>
 <div align="center">
-
+<img src="https://img.shields.io/badge/LOVED%20IDE%20-VSCode%20-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 
 
 </div>
@@ -24,7 +24,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mentoster&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mentoster&show_icons=true&include_all_commits=true)
 
 </div>
 
