@@ -13,10 +13,8 @@
 </div>
 
 📫 How to reach me:
-
-- telegram : **@mentoster**
-
-- vk : **[@dimamakarov12345](https://vk.com/dimamakarov12345)**
+- [telegram](https://telegram.org/) : **[@mentoster](https://t.me/Mentoster)**
+- [vk](https://vk.com/) : **[@dimamakarov12345](https://vk.com/dimamakarov12345)**
 
 ---
 
@@ -24,7 +22,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mentoster&show_icons=true&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mentoster&show_icons=true&include_all_commits=true&count_private=true)
 
 </div>
 
