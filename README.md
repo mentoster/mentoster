@@ -44,6 +44,8 @@
 </p>
 <p float="left">
   <img src="assets/images/теле2_game-1.png" width="200" />
+  <img src="assets/images/прорыв-2021-финал.png" width="200" />
+  
 </p>
 </div>
 </details>
