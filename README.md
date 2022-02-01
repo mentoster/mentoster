@@ -42,3 +42,4 @@ Certificate  | Description
 <img src="assets/images/прорыв-2021-финал.png" width="200" />| [Leaders of Digital](https://leadersofdigital.ru/) - the biggest Russian Hackaton (game dev)
 <img src="assets/images/Сертификат участника Хакатона Макаров МИРЭА.jpg" width="200" />| URBAN technology by [SUM](https://en.wikipedia.org/wiki/State_University_of_Management) (mobile dev)
 <img src="assets/images/volvo_page-0001.jpg" width="200" />| [Volvo](https://ru.wikipedia.org/wiki/Volvo) Cars Digital Challenge (mobile dev)
+<img src="assets/images/лидеры цыфр. трансформации.-1.png" width="200" />| Moscow hackathon (web dev)
