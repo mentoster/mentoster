@@ -29,17 +29,24 @@
 </div>
 
 ## Certificates
+<details>
+<summary>I have participated in the following hackathons...</summary>
+<div align="center">
+<p float="left">
+  <img src="assets/images/junction_Dmitriy_Makarov Asia-1.png" width="200" />
+  <img src="assets/images/junction_Dmitriy_Makarov-1.png" width="200" />
+  <img src="assets/images/junction_skysea_game-1.png" width="200" />
 
----
-Certificate  | Description
---- | ---
-<img src="assets/images/junction_Dmitriy_Makarov Asia-1.png" width="200" /> | Junction Asia (gamedev)
-<img src="assets/images/junction_skysea_game-1.png" width="200" /> | Junction Winner Team (Game dev)
-<img src="assets/images/diploma-1.png" width="200" /> | Aviahackaton by [MAI](https://en.wikipedia.org/wiki/Moscow_Aviation_Institute) (mobile dev)
-<img src="assets/images/Цивровой прорыв финал-1.png" width="200" /> | [Leaders of Digital](https://leadersofdigital.ru/) - the biggest Russian Hackaton, Winner team (mobile and game dev)
-<img src="assets/images/прорыв-1.png" width="200"/> | [Leaders of Digital](https://leadersofdigital.ru/) - the biggest Russian Hackaton (mobile dev)
-<img src="assets/images/теле2_game-1.png" width="200" /> | Winner team - [Tele2](https://ru.wikipedia.org/wiki/Tele2) Hack (gamedev +- mobile)
-<img src="assets/images/прорыв-2021-финал.png" width="200" />| [Leaders of Digital](https://leadersofdigital.ru/) - the biggest Russian Hackaton (game dev)
-<img src="assets/images/Сертификат участника Хакатона Макаров МИРЭА.jpg" width="200" />| URBAN technology by [SUM](https://en.wikipedia.org/wiki/State_University_of_Management) (mobile dev)
-<img src="assets/images/volvo_page-0001.jpg" width="200" />| [Volvo](https://ru.wikipedia.org/wiki/Volvo) Cars Digital Challenge (mobile dev)
-<img src="assets/images/лидеры цыфр. трансформации.-1.png" width="200" />| Moscow hackathon (web dev)
+</p>
+<p float="left">
+  <img src="assets/images/diploma-1.png" width="200" />
+  <img src="assets/images/Цивровой прорыв финал-1.png" width="200" />
+  <img src="assets/images/прорыв-1.png" width="200" />
+</p>
+<p float="left">
+  <img src="assets/images/теле2_game-1.png" width="200" />
+  <img src="assets/images/прорыв-2021-финал.png" width="200" />
+  
+</p>
+</div>
+</details>
