@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Dmitriy Makarov</h1>
-<h3 align="center">flutter, unity professional developer and designer from Russia</h3>
+<h3 align="center">flutter, unity professional developer and designer</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/FAVORITE%20IDE%20-VSCode%20-gray.svg?colorA=1560BD&colorB=1E90FF&style=for-the-badge"/>
 
