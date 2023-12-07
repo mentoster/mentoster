@@ -15,21 +15,31 @@
 
 ---
 
-<div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mentoster&show_icons=true&include_all_commits=true&count_private=true)
-
-<details >
-<summary>Last week used languages</summary>
-
-[![mentoster's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mentoster)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
-
-</div>
 
 ## Certificates
 <details>
+  
+<summary>I won  in the following hackathons...</summary>
+<div align="center">
+<p float="left">
+  <img src="assets/images/junction_skysea_game-1.png" width="200" />
+  <img src="assets/images/Цивровой прорыв финал-1.png" width="200" />
+</p>
+<p float="left">
+  <img src="assets/images/diploma-1.png" width="200" />
+
+  <img src="assets/images/прорыв-1.png" width="200" />
+</p>
+<p float="left">
+  <img src="assets/images/теле2_game-1.png" width="200" />
+  <img src="assets/images/прорыв-2021-финал.png" width="200" />
+  
+</p>
+</div>
+</details>
+<details>
+  
 <summary>I have participated in the following hackathons...</summary>
 <div align="center">
 <p float="left">
